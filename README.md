@@ -1,2 +1,2 @@
 # Kaggle_Imu
-Just a demo
+Just a simple demo
